@@ -1,1 +1,1 @@
-This is going to be my first time using html and css
+The website consists of a main index page wich have links to a few recipes.
